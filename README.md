@@ -65,7 +65,7 @@ Welcome to the Python GUI Mini-Projects repository. This collection showcases va
 
         ```bash
         cd BMI_Calculator
-        python BMI-Calculator_app.py
+        python BMI-Calculator_app.py # or python3 BMI-Calculator_app.py
         ```
 
     -   Repeat the process, navigating to the respective directory and running the main Python script for each application.
