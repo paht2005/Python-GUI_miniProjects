@@ -49,7 +49,7 @@ Welcome to the Python GUI Mini-Projects repository. This collection showcases va
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/paht2005/Python-GUI_miniProjects.git](https://github.com/paht2005/Python-GUI_miniProjects.git)
+    git clone https://github.com/paht2005/Python-GUI_miniProjects.git
     cd Python-GUI_miniProjects
     ```
 
