@@ -25,6 +25,7 @@ Welcome to the Python GUI Mini-Projects repository. This collection showcases va
 - **🔑 Simple Login System:** A basic user authentication system demonstrating login functionality with username and password input.
 - **👋 Simple Greetings GUI:** An interactive application that greets users by name, displays the current time, and maintains a greeting history. It also supports theming.
 - **✅ To-Do List:** A task management application that allows users to create, delete, and view tasks.
+- **⏳ Pomodoro Timer:** A productivity tool based on the Pomodoro Technique. It features a timer that alternates between 25-minute focused work sessions and short breaks. Every fourth break is a longer rest period. It helps enhance focus and manage time efficiently through structured intervals.
 
 
 ---
@@ -37,6 +38,7 @@ Welcome to the Python GUI Mini-Projects repository. This collection showcases va
 ├── Simple-Greetings-GUI_app/    # Directory for the Simple Greetings GUI application
 ├── Simple_Login_system/         # Directory for the Simple Login System application
 ├── To-do_List/                  # Directory for the To-Do List application
+├── Pomodoro_Timer_app/          # Directory for the Pomodoro Timer application
 ├── requirements.txt             # Lists the required Python packages
 └── README.md                    # Project documentation (this file)
 └── LICENSE
