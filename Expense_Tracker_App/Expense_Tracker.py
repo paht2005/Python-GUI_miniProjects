@@ -1,3 +1,5 @@
+# copyright [2025] [Phat Nguyen Cong] (Github: https://github.com/paht2005)
+
 # Objective: Build a GUI-based Personal Expense Tracker App that allows users to:
 
 # - Add new expenses with category, amount, and description.
